@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.celconac.twa",
+      "sha256_cert_fingerprints": [
+        "4D:CE:42:32:70:D0:3C:00:26:50:B9:1F:33:AD:CE:FF:94:89:E1:9A:AE:F5:F7:36:44:28:F3:5A:F0:12:54:CE"
+      ]
+    }
+  }
+]
